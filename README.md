@@ -12,4 +12,4 @@ I'm a Senior PHP Developer with over 8 years of experience in building scalable 
 - ReactJS
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dimasvic357&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dvictor357&show_icons=true&theme=radical)
