@@ -1,12 +1,13 @@
 # Hi there, I'm Dimas👋
 
-I'm a Senior PHP Developer with over 8 years of experience in building scalable web applications. I love to sharing my knowledge with the community.
+I'm a PHP Developer since 2015, experienced in building scalable web applications and backend developments.
 
 ## 🛠️ Skills
 - PHP
 - Laravel
 - MySQL
-- JavaScript
+- PostgreSQL
+- JavaScript / TypeScript
 - NodeJS
 - HTML/CSS
 - ReactJS
