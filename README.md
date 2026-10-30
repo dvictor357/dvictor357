@@ -1,6 +1,6 @@
 # Hi, I'm Dimas 👋
 
-I'm a Senior PHP Developer at Forest Interactive. Outside of work, I build AI agents, automations, and DeFi tools.
+I'm a Senior Developer at my daily work. Outside of work, I build AI agents, automations, and DeFi tools.
 
 ## 🔭 Currently building
 
